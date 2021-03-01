@@ -1,0 +1,7 @@
+name: DiscordPAPI
+version: ${project.version}
+main: com.hiddentech.discordpapi.DiscordPAPI
+api-version: 1.16
+authors: [hidden1nin]
+description: Adds place holders for discord messages!
+softdepend: [PlaceholderAPI]
